@@ -27,6 +27,7 @@
 <a href="https://codeforces.com/profile/rishabh_devbanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rishabh_devbanshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabh_devbanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh_devbanshi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishabh_devba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabh_devba" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rishabh_devbanshi" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brandsoftheworld.com%2Flogo%2Fcodeforces&psig=AOvVaw0k5jPE2WVjs-KkBIDQzlY7&ust=1630823885556000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjo2Mza5PICFQAAAAAdAAAAABAD" alt="rishabh_devbanshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
