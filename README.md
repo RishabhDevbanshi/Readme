@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/runtime_rishabh" target="blank"><img src="https://img.shields.io/twitter/follow/runtime_rishabh?logo=twitter&style=for-the-badge" alt="runtime_rishabh" /></a> </p>
 
-- 🔭 I’m currently working on **Swiggy Clone**
+- 🔭 I’m currently working on **Competitive Contests Calendar Site**
 
 - 🌱 I’m currently learning **React and Redux**
 
